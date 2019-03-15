@@ -18,7 +18,7 @@ XXXXXX
 note:
 Uploaded only for the Raspberry Pi driver.
 
-![L76X-GPS-HAT-1.JPG](L76X-GPS-HAT-1.JPG)
+![L76X-GPS-HAT-1.jpg](L76X-GPS-HAT-1.jpg)
 
 
 
