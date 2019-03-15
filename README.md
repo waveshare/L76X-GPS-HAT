@@ -5,7 +5,7 @@ http://www.waveshare.net
 https://www.waveshare.com  
 
 ## 中文 ## 
-http://www.waveshare.net/shop/L76X-GPS-HAT.htm
+http://www.waveshare.net/shop/L76X-GPS-HAT.htm 
 具有GNSS(全球导航卫星系统)功能的树莓派扩展板，支持GPS、北斗(BDS)和QZSS多重卫星系统，具有定位快、定位准确和低功耗等优点。
 
 注意：
